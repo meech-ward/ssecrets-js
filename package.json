@@ -1,5 +1,5 @@
 {
-  "name": "crypto-communication",
+  "name": "ssecrets-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "crypto-js": "^3.1.9-1",
-    "mocha": "^5.2.0",
     "ramda": "^0.26.1"
+  },
+  "dev-dependencies": {
+    "mocha": "^5.2.0"
   }
 }
